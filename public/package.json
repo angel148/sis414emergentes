@@ -1,0 +1,20 @@
+{
+  "name": "arcade",
+  "version": "1.0.0",
+  "description": "This page is for gamers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://JcZeta0049@dev.azure.com/JcZeta0049/SIS414/_git/SIS414"
+  },
+  "keywords": [
+    "game",
+    "arcade",
+    "atari"
+  ],
+  "author": "Sis414 Group",
+  "license": "ISC"
+}
